@@ -13,8 +13,8 @@
   4. [JSX](https://github.com/kangtegong/React-Study/blob/master/%232%20Getting%20Started/4.JSX.md#react-with-django)
   
 ## 3. Pros & State
-  
-  1.[Props](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/1.Props.md#react-with-django)
-  2.[List & Key](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/2.List-%26-Key.md#react-with-django)
-  3.[State(1)](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/3.State(1).md#react-with-django)
-  4.[State(2)]()
+  1. [Props](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/1.Props.md#react-with-django)
+  2. [List & Key](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/2.List-%26-Key.md#react-with-django)
+  3. [State(1)](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/3.State(1).md#react-with-django)
+  4. [State(2)]()
+
