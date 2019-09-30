@@ -19,4 +19,4 @@
   4. [State(2)](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/4.State(2).md#react-with-django)
 
 ## 4. Event handling & lifecycle
-  1. [브라우저에서 확인하는 event의 개념](https://github.com/kangtegong/React-Study/blob/master/%233%20Props%20%26%20State/1.Props.md#react-with-django)
+  1. [브라우저에서 확인하는 event의 개념](https://github.com/kangtegong/React-Study/blob/master/%234%20Event%20Handing%20%26%20Lifecycle/1.event.md#react-with-django)
