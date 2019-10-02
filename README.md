@@ -20,3 +20,4 @@
 
 ## 4. Event handling & lifecycle
   1. [브라우저에서 확인하는 event의 개념](https://github.com/kangtegong/React-Study/blob/master/%234%20Event%20Handing%20%26%20Lifecycle/1.event.md#react-with-django)
+  2. [event-handling](https://github.com/kangtegong/React-Study/blob/master/%234%20Event%20Handing%20%26%20Lifecycle/2.event-handling.md#react-with-django)
